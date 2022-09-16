@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nqv8eHpPWrHxFJXE4WbFkU1D0qZbjrtbPxlNHCHBKCo9q/e67myZpcV/Yxmk3uuP77J74/VGh75hJxEdLLUFOA==",
+  "success": true,
+  "projectFilePath": "/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/OnlineShop.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmad/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/ahmad/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/ahmad/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/bin/Debug/net5.0/OnlineShop.Common.deps.json
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/bin/Debug/net5.0/OnlineShop.Common.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/bin/Debug/net5.0/OnlineShop.Common.pdb
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.AssemblyInfoInputs.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.AssemblyInfo.cs
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.csproj.CoreCompileInputs.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/ref/OnlineShop.Common.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.pdb
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/OnlineShop.Common.csproj.AssemblyReference.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Common/obj/Debug/net5.0/refint/OnlineShop.Common.dll

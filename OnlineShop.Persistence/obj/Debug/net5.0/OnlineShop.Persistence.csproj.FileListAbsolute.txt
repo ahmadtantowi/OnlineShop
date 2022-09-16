@@ -1,0 +1,15 @@
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/bin/Debug/net5.0/OnlineShop.Persistence.deps.json
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/bin/Debug/net5.0/OnlineShop.Persistence.runtimeconfig.json
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/bin/Debug/net5.0/OnlineShop.Persistence.runtimeconfig.dev.json
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/bin/Debug/net5.0/OnlineShop.Persistence.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/bin/Debug/net5.0/OnlineShop.Persistence.pdb
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.AssemblyInfoInputs.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.AssemblyInfo.cs
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.csproj.CoreCompileInputs.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/ref/OnlineShop.Persistence.dll
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.pdb
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.genruntimeconfig.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/OnlineShop.Persistence.csproj.AssemblyReference.cache
+/Users/ahmad/Projects/my/oss/OnlineShop/OnlineShop.Persistence/obj/Debug/net5.0/refint/OnlineShop.Persistence.dll
